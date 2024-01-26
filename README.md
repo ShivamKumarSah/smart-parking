@@ -1,7 +1,5 @@
 # ParCar - Elevating Parking Solutions
 
-![ParCar Logo](https://i.ibb.co/MGDJ7Kt/file-2024-01-26-16-39-40.png)
-
 ParCar is a cutting-edge Android application that transforms urban parking by harnessing the power of Computer Vision Technology and an AI Chatbot, named Parker. Our solution addresses the pervasive issues of inefficient parking management, real-time parking information gaps, traffic congestion, and driver frustration. With a holistic approach, ParCar optimizes parking space utilization, reduces environmental impact, and enhances the overall parking experience.
 
 ## Problem Statement
@@ -37,13 +35,18 @@ Technical Soundness: OpenCV algorithms for real-time analysis, powered by OpenAI
 - **Firebase Database:** Efficient data management.
 - **IP Cameras:** Effective monitoring for enhanced security.
 
-## ParCar Application.
+## ParCar Application:
 
-![App Screenshots]()
+![App Screenshots](https://i.ibb.co/MGDJ7Kt/file-2024-01-26-16-39-40.png)
 
-## Demo
+## AI ChatBot Parkaer:
 
-![Parking Spot Detection GIF](parking_detection.gif)
+![Parking Spot Detection](https://i.ibb.co/MGDJ7Kt/file-2024-01-26-16-39-40.pnghttps://i.ibb.co/n6q31FQ/file-2024-01-26-16-54-45.png)
+
+## Parking spot detection and updation:
+
+![Parking Spot Detection GIF](https://i.ibb.co/c3qPPx9/parking-spot-detection.gif)
+
 
 ## Getting Started
 
