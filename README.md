@@ -6,11 +6,27 @@ ParCar is a cutting-edge Android application that transforms urban parking by ha
 
 ## Problem Statement
 
-... (Include the content from the problem statement in the README)
+Inefficient Parking Management:
+
+Time Wasted: Studies show that drivers in the US waste an average of 17 hours per year searching for parking.
+Fuel Consumption: The search for parking contributes to an extra 3.7 billion gallons of gas burned annually in the US.
+Driver Stress: Frustration in finding parking significantly increases driver stress levels.
+Street Parking and Congestion:
+Space Utilization: Traditional parking garages operate at 60% capacity, while automated systems can increase this to 80-90%.
+Traffic Flow: Street parking can reduce traffic flow by up to 30%, creating bottlenecks and congestion.
+Accidents: Improper on-street parking increases the risk of accidents.
 
 ## Solution
 
-... (Include the content from the solution section in the README)
+ParCar leverages Computer Vision Technology and an AI Chatbot, Parker, to provide:
+
+Instant Parking Updates: Real-time information without user input, streamlining the parking process.
+Dynamic Pricing: Incentivizing parking in designated lots based on street parking costs.
+Seamless Interface: User-friendly app design for efficient booking.
+Differentiators:
+Cost-Effective: Utilizes CCTV cameras for spot detection, avoiding the need for multiple sensors.
+AI Chatbot: Enhances user interaction, navigating government regulations seamlessly.
+Technical Soundness: OpenCV algorithms for real-time analysis, powered by OpenAI's GPT-3.5 Turbo-1106.
 
 ## Features
 
@@ -21,9 +37,9 @@ ParCar is a cutting-edge Android application that transforms urban parking by ha
 - **Firebase Database:** Efficient data management.
 - **IP Cameras:** Effective monitoring for enhanced security.
 
-## Screenshots
+## ParCar Application.
 
-![App Screenshots](app_screenshots.png)
+![App Screenshots](https://i.ibb.co/MGDJ7Kt/file-2024-01-26-16-39-40.png)
 
 ## Demo
 
