@@ -43,9 +43,9 @@ Technical Soundness: OpenCV algorithms for real-time analysis, powered by OpenAI
 
 ![Parking Spot Detection](https://i.ibb.co/n6q31FQ/file-2024-01-26-16-54-45.png)
 
-## Parking spot detection and updation:
+## Parking spot detection:
 
-![Parking Spot Detection GIF](https://i.ibb.co/c3qPPx9/parking-spot-detection.gif)
+![Parking Spot Detection](https://i.ibb.co/SmYm2mG/file-2024-01-26-17-13-33.png)
 
 
 ## Getting Started
