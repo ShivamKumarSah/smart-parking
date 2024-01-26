@@ -41,7 +41,7 @@ Technical Soundness: OpenCV algorithms for real-time analysis, powered by OpenAI
 
 ## AI ChatBot Parkaer:
 
-![Parking Spot Detection](https://i.ibb.co/MGDJ7Kt/file-2024-01-26-16-39-40.pnghttps://i.ibb.co/n6q31FQ/file-2024-01-26-16-54-45.png)
+![Parking Spot Detection](https://i.ibb.co/n6q31FQ/file-2024-01-26-16-54-45.png)
 
 ## Parking spot detection and updation:
 
