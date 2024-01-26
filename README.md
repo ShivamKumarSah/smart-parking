@@ -65,7 +65,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For any inquiries or support, contact us at [support@parcar.com](mailto:support@parcar.com).
-
 **Elevate Your Parking Experience with ParCar!**
 
