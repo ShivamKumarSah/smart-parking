@@ -49,7 +49,7 @@ Technical Soundness: OpenCV algorithms for real-time analysis, powered by OpenAI
 
 ## Demo Video
 
-[![Watch the Demo Video](demo_thumbnail.png)](https://youtu.be/ySXqzc_x35M)
+[![Watch the Demo Video](https://i.ibb.co/zVnVkTv/file-2024-01-24-21-15-19.png)](https://youtu.be/ySXqzc_x35M)
 
 
 ## License
