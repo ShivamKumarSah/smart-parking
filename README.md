@@ -47,6 +47,11 @@ Technical Soundness: OpenCV algorithms for real-time analysis, powered by OpenAI
 
 ![Parking Spot Detection](https://i.ibb.co/SmYm2mG/file-2024-01-26-17-13-33.png)
 
+## Demo Video
+
+[![Watch the Demo Video](demo_thumbnail.png)](https://youtu.be/ySXqzc_x35M)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
