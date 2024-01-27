@@ -47,18 +47,6 @@ Technical Soundness: OpenCV algorithms for real-time analysis, powered by OpenAI
 
 ![Parking Spot Detection](https://i.ibb.co/SmYm2mG/file-2024-01-26-17-13-33.png)
 
-
-## Getting Started
-
-To get started with ParCar, follow these steps:
-1. Download the app from the [Google Play Store](#).
-2. Sign up for an account.
-3. Explore real-time parking updates, dynamic pricing, and effortless booking.
-
-## Contributing
-
-We welcome contributions! Please check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
