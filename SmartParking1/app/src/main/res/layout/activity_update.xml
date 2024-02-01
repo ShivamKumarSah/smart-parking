@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="none">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <LinearLayout
+        android:background="@drawable/edit_profile"
+        android:layout_width="match_parent"
+        android:layout_height="680dp"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/LoginText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Edit- Profile"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="40sp"
+            android:layout_marginBottom="15dp"
+            android:textStyle="bold" />
+
+        <FrameLayout
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/profile_img_frame"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/button_background"
+                app:tint="@color/purple_200" />
+
+            <ImageView
+                android:id="@+id/user_img"
+                android:layout_width="60dp"
+                android:layout_height="97dp"
+                android:layout_gravity="center"
+                android:src="@drawable/baseline_person_24"
+                app:tint="@color/white" />
+        </FrameLayout>
+
+
+        <EditText
+            android:id="@+id/personName"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_edittext"
+            android:drawablePadding="8dp"
+            android:hint="Enter Your Name"
+            android:inputType="textPersonName"
+            android:padding="12dp"
+            android:textColor="@color/black"
+            android:textColorHighlight="@color/cardview_dark_background" />
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_edittext"
+            android:drawablePadding="8dp"
+            android:inputType="textEmailAddress"
+            android:hint="Enter Your E-mail ID"
+            android:padding="12dp"
+            android:textColor="@color/black"
+            android:textColorHighlight="@color/cardview_dark_background" />
+
+        <EditText
+            android:id="@+id/mobile"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_edittext"
+            android:drawablePadding="8dp"
+            android:inputType="phone"
+            android:hint="Enter Your Mobile No."
+            android:padding="12dp"
+            android:textColor="@color/black"
+            android:textColorHighlight="@color/cardview_dark_background" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="37dp"
+            android:padding="8dp"
+            android:layout_marginTop="15dp"
+            android:text="Your Car Details"
+            android:textAlignment="center"
+            android:textColor="@color/purple"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/carName"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/custom_edittext"
+            android:drawablePadding="8dp"
+            android:inputType="text"
+            android:hint="Enter Car Name"
+            android:padding="12dp"
+            android:textColor="@color/black"
+            android:textColorHighlight="@color/cardview_dark_background" />
+
+        <EditText
+            android:id="@+id/carNumber"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_edittext"
+            android:drawablePadding="8dp"
+            android:inputType="text"
+            android:hint="Enter Your Car No."
+            android:padding="12dp"
+            android:textColor="@color/black"
+            android:textColorHighlight="@color/cardview_dark_background" />
+
+        <EditText
+            android:id="@+id/dLicence"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/custom_edittext"
+            android:drawablePadding="8dp"
+            android:inputType="text"
+            android:hint="Enter Your Driving Licence Number"
+            android:padding="12dp"
+            android:textColor="@color/black"
+            android:textColorHighlight="@color/cardview_dark_background" />
+
+        <Button
+            android:id="@+id/updateButton"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:backgroundTint="@color/purple"
+            android:text="Update"
+            android:textSize="18sp"
+            app:cornerRadius="20dp" />
+
+        <TextView
+            android:id="@+id/loginText"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:clickable="true"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:text="Change Password"
+            android:textAlignment="center"
+            android:textColor="@color/purple"
+            android:textSize="14sp"/>
+    </LinearLayout>
+
+
+</RelativeLayout>
+</ScrollView>
